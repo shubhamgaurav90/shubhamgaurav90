@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Shubham Sharma  
 
-🎓 2nd Year Computer Science Student @ Laxmi Devi Institute of Technology, Alwar  
+🎓 2nd Year Computer Science Student @ Bikaner Technical University  
 💻 Web Developer | Python & Java Enthusiast | Data Science Intern  
 🏅 Silver Medalist (2nd Rank, First Year CSE Batch)  
 
