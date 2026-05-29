@@ -73,7 +73,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shubham-sharma-57a268315)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/shubhamgaurav90)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=netlify)](https://shubhamsacportfolio.netlify.app)  
-📧 Email: shubhamsac@example.com  
+📧 Email: shubhamgaurav90@gmail.com
 
 ---
 
