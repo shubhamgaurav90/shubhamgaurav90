@@ -1,80 +1,190 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Shubham%20Sharma%20|%20Web%20Developer%20&%20CS%20Student&fontSize=30&fontColor=ffffff)
+Hi there, I'm Shubham Sharma 👋
 
-# Hi there 👋, I'm Shubham Sharma  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Python+Developer;Full+Stack+Web+Developer;FastAPI+Developer;Data+Science+Enthusiast;Backend+Developer;Open+Source+Contributor;Always+Learning+Something+New" />
+</h1><p align="center">
+  <a href="https://github.com/shubhamgaurav90">
+    <img src="https://komarev.com/ghpvc/?username=shubhamgaurav90&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  </a>  <img src="https://img.shields.io/github/followers/shubhamgaurav90?style=for-the-badge"/>  <img src="https://img.shields.io/github/stars/shubhamgaurav90?affiliations=OWNER&style=for-the-badge"/>
+</p>---
 
-🎓 2nd Year Computer Science Student @ Bikaner Technical University  
-💻 Web Developer | Python & Java Enthusiast | Data Science Intern  
-🏅 Silver Medalist (2nd Rank, First Year CSE Batch)  
+👨‍💻 About Me
 
----
+🎓 B.Tech Computer Science Engineering (3rd Year)
 
-## 🚀 About Me
-- 🌱 Currently learning **Discrete Mathematics, Graph Theory, and SQL**
-- 🔭 Building real‑world projects for my portfolio
-- 📚 Completed **30‑day Internship on Data Science with ML & AI** (Upflairs Pvt. Ltd.)
-- 🏆 Certified in **Python (Basic)** and **CSS** via HackerRank
-- ✍️ Documenting daily learning insights on LinkedIn
+💻 Passionate about Backend Development and Python
 
----
+🚀 Building scalable applications using FastAPI
 
-## 🛠️ Tech Stack
+📚 Exploring AI, Machine Learning and Data Science
 
-### Languages & Frameworks  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL/MySQL" width="40" height="40"/>
-</p>
+🌱 Currently learning
 
-### Tools & Platforms  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>
-</p>
+- Docker
+- Redis
+- FastAPI
+- System Design
+- Machine Learning
+
+🎯 2026 Goals
+
+- Contribute to Open Source
+- Build Production-Level Projects
+- Master Backend Engineering
+- Learn Cloud Deployment
+- Crack Product-Based Company Interviews
 
 ---
 
-## 📈 GitHub Stats
+🚀 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamgaurav90&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+👨‍💻 Languages
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamgaurav90&theme=radical" alt="GitHub Streak" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python"/><img src="https://skillicons.dev/icons?i=java"/><img src="https://skillicons.dev/icons?i=cpp"/><img src="https://skillicons.dev/icons?i=c"/><img src="https://skillicons.dev/icons?i=bash"/></p>---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgaurav90&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+🌐 Frontend
 
----
+<p><img src="https://skillicons.dev/icons?i=html"/><img src="https://skillicons.dev/icons?i=css"/><img src="https://skillicons.dev/icons?i=bootstrap"/><img src="https://skillicons.dev/icons?i=javascript"/><img src="https://skillicons.dev/icons?i=react"/><img src="https://skillicons.dev/icons?i=tailwind"/></p>---
 
-## 📂 Featured Projects
-- 🌐 [Portfolio Website](https://shubhamsacportfolio.netlify.app) – Showcasing my projects & achievements  
-- 🧮 Aptitude & Geometry Problem Solver – Stepwise logic for exam prep  
-- 📊 Data Science Internship Projects – Machine Learning & AI applications  
+⚙ Backend
 
----
+<p><img src="https://skillicons.dev/icons?i=fastapi"/><img src="https://skillicons.dev/icons?i=flask"/><img src="https://skillicons.dev/icons?i=nodejs"/><img src="https://skillicons.dev/icons?i=express"/><img src="https://skillicons.dev/icons?i=django"/></p>---
 
-## 🎖️ Badges & Certifications
-![HackerRank Python](https://img.shields.io/badge/HackerRank-Python%20(Basic)-brightgreen?logo=hackerrank)  
-![HackerRank CSS](https://img.shields.io/badge/HackerRank-CSS-blue?logo=hackerrank)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shubhamgaurav90)  
-![Profile Views](https://komarev.com/ghpvc/?username=shubhamgaurav90&color=blue)
+🗄 Databases
 
----
+<p><img src="https://skillicons.dev/icons?i=mongodb"/><img src="https://skillicons.dev/icons?i=mysql"/><img src="https://skillicons.dev/icons?i=sqlite"/><img src="https://skillicons.dev/icons?i=postgres"/><img src="https://skillicons.dev/icons?i=redis"/></p>---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shubham-sharma-57a268315)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/shubhamgaurav90)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=netlify)](https://shubhamsacportfolio.netlify.app)  
-📧 Email: shubhamgaurav90@gmail.com
+☁ Cloud & DevOps
+
+<p><img src="https://skillicons.dev/icons?i=docker"/><img src="https://skillicons.dev/icons?i=aws"/><img src="https://skillicons.dev/icons?i=firebase"/><img src="https://skillicons.dev/icons?i=githubactions"/><img src="https://skillicons.dev/icons?i=nginx"/><img src="https://skillicons.dev/icons?i=linux"/></p>---
+
+📊 Data Science & AI
+
+<p><img src="https://skillicons.dev/icons?i=tensorflow"/><img src="https://skillicons.dev/icons?i=pytorch"/><img src="https://skillicons.dev/icons?i=opencv"/></p>- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- Jupyter Notebook
+- Seaborn
 
 ---
 
-⭐️ From [Shubham Sharma](https://github.com/shubhamgaurav90)
+🛠 Tools
+
+<p><img src="https://skillicons.dev/icons?i=git"/><img src="https://skillicons.dev/icons?i=github"/><img src="https://skillicons.dev/icons?i=vscode"/><img src="https://skillicons.dev/icons?i=postman"/><img src="https://skillicons.dev/icons?i=figma"/></p>---
+
+📂 Featured Projects
+
+🚀 Integrated API Caching Service
+
+- FastAPI
+- Redis
+- External APIs
+- TTL Cache
+- Response Time Monitoring
+- Production Ready REST API
+
+---
+
+🔍 Domain Question Search Engine
+
+- Flask
+- SQLite
+- CSV Dataset
+- Dynamic Search
+- REST APIs
+
+---
+
+🌐 Portfolio Website
+
+- Responsive Design
+- Modern UI
+- Experience Timeline
+- Certifications
+- Projects Showcase
+
+---
+
+📈 GitHub Analytics
+
+https://github-readme-stats.vercel.app/api?username=shubhamgaurav90&show_icons=true&theme=tokyonight&hide_border=true
+
+https://github-readme-streak-stats.herokuapp.com/?user=shubhamgaurav90&theme=tokyonight&hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamgaurav90&layout=compact&theme=tokyonight&hide_border=true
+
+---
+
+📊 Contribution Graph
+
+https://github-readme-activity-graph.vercel.app/graph?username=shubhamgaurav90&theme=github-compact
+
+---
+
+🏆 GitHub Trophies
+
+https://github-profile-trophy.vercel.app/?username=shubhamgaurav90&theme=algolia&column=4&margin-w=15
+
+---
+
+⚡ GitHub Metrics
+
+- ⭐ Clean Code
+- 🚀 Backend Development
+- 💻 Python Projects
+- 🌱 Continuous Learning
+- 📚 Open Source Enthusiast
+
+---
+
+📜 Certifications
+
+✔ Python Programming
+
+✔ Java Programming
+
+✔ C++
+
+✔ Data Science
+
+✔ Full Stack Web Development
+
+✔ Git & GitHub
+
+(Add new certifications here as you earn them.)
+
+---
+
+🎯 Currently Working On
+
+- FastAPI Projects
+- Machine Learning
+- Backend APIs
+- Open Source Contributions
+
+---
+
+🌍 Connect With Me
+
+<p><a href="https://github.com/shubhamgaurav90">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a><a href="https://www.linkedin.com/in/shubham-sharma-57a268315">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a></p>GitHub:
+https://github.com/shubhamgaurav90
+
+LinkedIn:
+https://www.linkedin.com/in/shubham-sharma-57a268315
+
+---
+
+💬 Quote
+
+«"Success isn't built in one day. It's built every day."»
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐
+
+</h3>
